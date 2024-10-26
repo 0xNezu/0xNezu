@@ -32,7 +32,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 
 ## 📈 GitHub Stats
-![Nezu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Nezu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xNezu&show_icons=true&theme=radical)
 
 ## 📝 Blog Posts
 - [Soon](https://google.com)
