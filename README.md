@@ -43,10 +43,6 @@
 ### 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNezu&layout=compact&theme=radical)
 
-### 🚀 Contribution Activity
-![Contribution Activity](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=0xNezu&theme=radical)
-![Contribution Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=0xNezu&theme=radical)
-
 ---
 
 ## 📝 Blog Posts
