@@ -37,6 +37,16 @@
 ## 📈 GitHub Stats
 ![Nezu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xNezu&show_icons=true&theme=radical&count_private=true)
 
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xNezu&theme=radical)
+
+### 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNezu&layout=compact&theme=radical)
+
+### 🚀 Contribution Activity
+![Contribution Activity](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=0xNezu&theme=radical)
+![Contribution Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=0xNezu&theme=radical)
+
 ---
 
 ## 📝 Blog Posts
@@ -53,4 +63,3 @@
 ---
 
 Feel free to explore my repositories and don’t hesitate to reach out for collaborations or just a chat!
-
